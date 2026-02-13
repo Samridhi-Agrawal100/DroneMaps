@@ -41,9 +41,8 @@ http://localhost:5173
 ## 🧰 Technologies Used
 
 - React
-- TypeScript
+- TypeScript+SWC
 - Vite
-- ESLint (if you have it set up)
 
 ## 🛠️ Available Scripts
 
